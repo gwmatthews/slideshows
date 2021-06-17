@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Title</title>
@@ -43,5 +43,6 @@ class: center, middle
     </script>
   </body>
 </html>
+
 
 
